@@ -1,1 +1,1 @@
-2023-07-21 17:59:18.623973: Filtered patient count for msk_impact_2017 on 'CANCER_TYPE'=='Non-Small Cell Lung Cancer' is: 1567
+2023-07-21 18:31:18.229755: Filtered patient count for msk_impact_2017 on 'CANCER_TYPE'=='Non-Small Cell Lung Cancer' is: 1567
